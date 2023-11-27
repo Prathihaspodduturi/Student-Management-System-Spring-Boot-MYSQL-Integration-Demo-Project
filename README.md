@@ -17,7 +17,7 @@ This project, titled "Student Management System," demonstrates a practical imple
 - Maven: For project management and dependencies.
 - Jakarta Persistence (JPA): For database interaction.
 
-# Setuo and Installation
+# Setup and Installation
 
 1. Database Setup:
    - Ensure MySQL is installed and running on your system.
