@@ -10,6 +10,11 @@ This project, titled "Student Management System," demonstrates a practical imple
 - Efficient Database Interaction: Utilizes JPA (Java Persistence API) for optimized database transactions.
 - Logging and Debugging: Configured logging for SQL statements and Hibernate operations, aiding in debugging and monitoring.
 
+# File Description
+starter-sql-scripts has two files
+- create-user-sql : for creating a user and granting all permission to the user
+- student-tracker-sql : for creating table Student
+
 # Technologies Used
 - Spring Boot: For the overall framework, providing a range of functionalities including the web server, data handling, and more.
 - MySQL: Used as the database for storing student information.
